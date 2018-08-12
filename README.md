@@ -1,2 +1,2 @@
 # physicsOlympiadNotes
-Backup of the sources for my Physics Olympiad Notes
+Backup of the sources for my SJPO Training Notes
