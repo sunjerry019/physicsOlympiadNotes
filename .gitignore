@@ -1,7 +1,11 @@
+## To reapply .gitignore
+#  use https://stackoverflow.com/a/19757964
+
 ## Custom Definition of files to be excluded
 
 Google Drive/*
 0_Administrative/*
+0_Textbooks/*
 
 ## Core latex/pdflatex auxiliary files:
 *.aux
