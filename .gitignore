@@ -1,3 +1,8 @@
+## Custom Definition of files to be excluded
+
+Google Drive/*
+0_Administrative/*
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof

@@ -1,0 +1,90 @@
+% !TeX spellcheck = en_GB
+\documentclass[11pt]{article}
+
+\usepackage[type1]{libertine}
+\usepackage[a4paper]{geometry}
+\usepackage{amsmath, amsthm, amssymb} 
+\usepackage{parskip}
+\usepackage{tabularx}
+\usepackage[english]{babel}
+\usepackage{enumitem}
+\usepackage{gensymb}
+\usepackage{bm}
+
+\newcommand{\uvec}[1]{\boldsymbol{\hat{\textbf{#1}}}}
+
+\title{Vector Practice Questions from College Physics}
+\author{Sun Yudong}
+
+\begin{document}
+	\maketitle
+	
+	\begin{enumerate}
+		\item[{[46]}] We define $\uparrow$ and $\rightarrow$ as positive, with angles going anticlockwise from East as positive.
+			\begin{align*}
+				\vec{S} &= \vec{S_1}+\vec{S_2} 	\\
+				\vec{S_1} &= 85\cos(22\degree)~\uvec{\i} + 85\sin(22\degree)~\uvec{\j} \\
+				\vec{S_2} &= 115\cos(-48\degree)~\uvec{\i} + 155\sin(-48\degree)~\uvec{\j} \\
+				\implies \vec{S} &= (85\cos(22\degree) + 115\cos(-48\degree))~\uvec{\i} + (85\sin(22\degree) + 115\cos(-48\degree))~\uvec{\j} \\
+				\vec{S} &= 155.76~\uvec{\i} - 53.62~\uvec{\j} \\
+				\implies |\vec{S}| &= \sqrt{(-53.62)^2+(155.76)^2} = 164.73 ~\text{mi} = 165 ~\text{mi} \\
+				\text{Angle} &= \tan^{-1} \left(\frac{-53.62}{155.76}\right) = -18.995 \degree = -19 \degree \implies 19 \degree ~\text{South of East}
+			\end{align*}
+		\vfill
+		\item[{[47]}] Since you are in static equilibrium $F_{net} = \sum F = 0$. \\
+		$y$-direction:
+			\begin{align*}
+				|\vec{F_l}|\cos(45\degree) + |\vec{F_r}|\cos(45\degree) &= 620 \\
+				\because |\vec{F_l}| = |\vec{F_r}| \\
+				\therefore 2\times|\vec{F_l}|(\cos(45\degree)) = 2\left(\frac{1}{\sqrt{2}}\right)|\vec{F_l}|  &=620 \\
+				|\vec{F_l}| = \frac{620}{\sqrt{2}} &= 438\text{N}
+			\end{align*}
+		\vfill
+		\item[{[61]}] We define $\uparrow$ and $\rightarrow$ as positive, with angles going anticlockwise from East as positive.
+			\begin{align*}
+				\vec{S_1} + \vec{S_2} + \vec{S_3} + \vec{S_4} &= 0 \\ 
+				\vec{S_4} &= -(\vec{S_1} + \vec{S_2} + \vec{S_3}) \\
+				\because \vec{S_1} &= -180 ~\uvec{\i} \\
+				\vec{S_2} &= 210\cos(-45\degree)~\uvec{\i} + 210\sin(-45\degree) ~\uvec{\j} \\
+				\vec{S_3} &= 280\cos(90\degree-30\degree)~\uvec{\i} + 280\sin(90\degree-30\degree) ~\uvec{\j} \\
+				&= 280\cos(60\degree)~\uvec{\i} + 280\sin(60\degree) ~\uvec{\j} \\
+				\text{or}&= 280\sin(30\degree)~\uvec{\i} + 280\cos(30\degree) ~\uvec{\j} \\
+				\therefore \vec{S_4} &= -[(-180 + 210\cos(-45\degree) + 280\cos(60\degree))~\uvec{\i} +  (210\sin(-45\degree) + 280\sin(60\degree))~\uvec{\j}~] \\
+				&= -\left[ \left( \frac{210}{\sqrt{2}} - 40\right)~\uvec{\i} + \left(-\frac{210}{\sqrt{2}} + \frac{260\sqrt{3}}{2}\right)~\uvec{\j}~ \right] \\
+				&= \left(40 - \frac{210}{\sqrt{2}}\right)~\uvec{\i} + \left(\frac{210}{\sqrt{2}} - \frac{260\sqrt{3}}{2}\right)~\uvec{\j} \\
+				\implies |\vec{S_4}| = 132.85 &= 133 \text{m} \\
+				\text{Angle} &= 35.2 \degree ~\text{North of East}
+			\end{align*}
+		\item[{[62]}] Same concept as Q61. We define $\uparrow$ and $\rightarrow$ as positive, with angles going anticlockwise from East as positive. 
+			\begin{align*}
+				\vec{S_3} &= -\vec{S_2} + (5.80 - 2.00) ~\uvec{\i} \\
+				&= -3.50[\cos(-45.0\degree) ~\uvec{\i} + \sin(-45.0\degree) ~\uvec{\j}~] + 3.80 ~\uvec{\i} \\
+				&= \left(3.80-\frac{3.50}{\sqrt{2}}\right)~\uvec{\i} + \frac{3.50}{\sqrt{2}} ~\uvec{\j} \\
+				\implies |\vec{S_3}| &= 2.81 \text{m} \\
+				\text{Angle} &=61.8 \degree ~\text{North of East}
+			\end{align*}
+		\item[{[63]}] Same concept as Q47: Since you are in static equilibrium $F_{net} = \sum F = 0$. \\
+		$x$-direction:
+			\begin{align*}
+				|\vec{A}|\cos(32\degree) + |\vec{B}|\cos(32\degree) &= 5.60 \\
+				\because |\vec{A}| = |\vec{B}| \\
+				\therefore 2\times|\vec{A}|(\cos(32\degree))  &=5.60 \\
+				|\vec{A}| = \frac{5.60}{2\cos(32\degree)} &= 3.30\text{N}
+			\end{align*}
+		\pagebreak
+		\item[{[64]}] Same concept as Q61: We define $\uparrow$ and $\rightarrow$ as positive, with angles going clockwise from North as positive. (The sin and cos used in this question would be a bit different/they are opposite because of the way the angles used are defined.)
+			\begin{align*}
+				\vec{S_1} + \vec{S_2} + \vec{S_3} + \vec{S_4} &= 0 \\ 
+				\vec{S_4} &= -(\vec{S_1} + \vec{S_2} + \vec{S_3}) \\
+				\because \vec{S_1} &= 147\sin(85\degree) ~\uvec{\i} + 147\cos(85\degree) ~\uvec{\j} \\
+				\vec{S_2} &= 106\sin(167\degree)~\uvec{\i} + 106\cos(167\degree) ~\uvec{\j} \\
+				\vec{S_3} &= 166\sin(235\degree)~\uvec{\i} + 166\cos(235\degree) ~\uvec{\j} \\
+				\therefore \vec{S_4} &= -[(147\sin(85\degree) + 106\sin(167\degree) + 166\sin(235\degree))~\uvec{\i} \\
+				&~~+  (147\cos(85\degree) + 106\cos(167\degree) + 166\cos(235\degree))~\uvec{\j}~] \\
+				\implies |\vec{S_4}| = 188.83 &= 189 \text{m} \\
+				\text{Angle} &= -79.5 \degree ~\text{East of North} = 79.5\degree ~\text{West of North}
+			\end{align*}
+		
+	\end{enumerate}
+	
+\end{document}

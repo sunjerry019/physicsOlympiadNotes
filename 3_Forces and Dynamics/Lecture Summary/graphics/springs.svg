@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="springs.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path973"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path976"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path976-7"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-3-5"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path976-7-0"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-4"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path976-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-3-5-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path976-7-0-4"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-3-1"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path976-7-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="188.21524"
+     inkscape:cy="647.17003"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1020"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid817" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.35277778;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 18.258585,112.82046 c 0,0 0.04324,-3.67463 1.690412,-3.67463 1.647172,0 2.645832,6.61459 1.322916,6.61459 -1.322916,0 -0.925611,-6.61459 1.322917,-6.61459 2.248528,0 2.645834,6.61459 1.322917,6.61459 -1.322917,0 -0.925612,-6.61459 1.322916,-6.61459 2.248528,0 2.645834,6.61459 1.322917,6.61459 -1.322917,0 -0.925611,-6.61459 1.322917,-6.61459 2.248528,0 2.645832,6.61459 1.322916,6.61459 -1.322916,0 -0.925611,-6.61459 1.322917,-6.61459 2.248528,0 2.645834,6.61459 1.322917,6.61459 -1.322917,0 -0.324256,-6.54777 1.322916,-6.61459 1.647172,-0.0668 1.322917,3.9753 1.322917,3.9753"
+       id="path840"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czzzzzzzzzzzc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.35277778;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 18.258593,122.77736 c 0,0 0.02511,-3.70908 0.981746,-3.70908 0.956633,0 1.536627,6.6766 0.768314,6.6766 -0.768314,0 -0.53757,-6.6766 0.768314,-6.6766 1.305885,0 1.53663,6.6766 0.768315,6.6766 -0.768315,0 -0.53757,-6.6766 0.768315,-6.6766 1.305884,0 1.536628,6.6766 0.768313,6.6766 -0.768313,0 -0.537569,-6.6766 0.768315,-6.6766 1.305885,0 1.536629,6.6766 0.768314,6.6766 -0.768314,0 -0.537569,-6.6766 0.768315,-6.6766 1.305885,0 1.536629,6.6766 0.768315,6.6766 -0.768315,0 -0.188319,-6.60916 0.768313,-6.6766 0.956634,-0.0675 0.768315,4.01256 0.768315,4.01256"
+       id="path840-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czzzzzzzzzzzc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.35277778;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 18.301716,102.7907 c 0,0 0.06787,-3.626678 2.653434,-3.626678 2.58556,0 4.153153,6.528268 2.076577,6.528268 -2.076577,0 -1.452929,-6.528268 2.076578,-6.528268 3.529507,0 4.153156,6.528268 2.076578,6.528268 -2.076578,0 -1.45293,-6.528268 2.076577,-6.528268 3.529506,0 4.153156,6.528268 2.076578,6.528268 -2.076578,0 -1.452928,-6.528268 2.076578,-6.528268 3.529507,0 4.153153,6.528268 2.076577,6.528268 -2.076577,0 -1.452929,-6.528268 2.076578,-6.528268 3.529506,0 4.153156,6.528268 2.076578,6.528268 -2.076578,0 -0.508983,-6.46232 2.076577,-6.528268 2.58556,-0.06593 2.076578,3.923428 2.076578,3.923428"
+       id="path840-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czzzzzzzzzzzc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.35277778;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 70.837243,112.82046 c 0,0 0.04324,-3.67463 1.690412,-3.67463 1.647172,0 2.645832,6.61459 1.322916,6.61459 -1.322916,0 -0.925611,-6.61459 1.322917,-6.61459 2.248528,0 2.645834,6.61459 1.322917,6.61459 -1.322917,0 -0.925612,-6.61459 1.322916,-6.61459 2.248528,0 2.645834,6.61459 1.322917,6.61459 -1.322917,0 -0.925611,-6.61459 1.322917,-6.61459 2.248528,0 2.645832,6.61459 1.322916,6.61459 -1.322916,0 -0.925611,-6.61459 1.322917,-6.61459 2.248528,0 2.645834,6.61459 1.322917,6.61459 -1.322917,0 -0.324256,-6.54777 1.322916,-6.61459 1.647172,-0.0668 1.322917,3.9753 1.322917,3.9753"
+       id="path840-54"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czzzzzzzzzzzc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.35277778;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 74.24738,122.77736 c 0,0 0.02511,-3.70908 0.981746,-3.70908 0.956633,0 1.536627,6.6766 0.768314,6.6766 -0.768314,0 -0.53757,-6.6766 0.768314,-6.6766 1.305885,0 1.53663,6.6766 0.768315,6.6766 -0.768315,0 -0.53757,-6.6766 0.768315,-6.6766 1.305884,0 1.536628,6.6766 0.768313,6.6766 -0.768313,0 -0.537569,-6.6766 0.768315,-6.6766 1.305885,0 1.536629,6.6766 0.768314,6.6766 -0.768314,0 -0.537569,-6.6766 0.768315,-6.6766 1.305885,0 1.536629,6.6766 0.768315,6.6766 -0.768315,0 -0.188319,-6.60916 0.768314,-6.6766 0.956633,-0.0675 0.768314,4.01256 0.768314,4.01256"
+       id="path840-5-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czzzzzzzzzzzc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.35277778;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 66.2031,102.7907 c 0,0 0.06787,-3.626681 2.653434,-3.626681 2.58556,0 4.153153,6.528271 2.076577,6.528271 -2.076577,0 -1.452929,-6.528271 2.076578,-6.528271 3.529507,0 4.153156,6.528271 2.076578,6.528271 -2.076578,0 -1.45293,-6.528271 2.076577,-6.528271 3.529506,0 4.153156,6.528271 2.076578,6.528271 -2.076578,0 -1.452928,-6.528271 2.076578,-6.528271 3.529507,0 4.153153,6.528271 2.076577,6.528271 -2.076577,0 -1.452929,-6.528271 2.076578,-6.528271 3.529506,0 4.153156,6.528271 2.076578,6.528271 -2.076578,0 -0.508983,-6.462321 2.076577,-6.528271 2.58556,-0.0659 2.076578,3.923431 2.076578,3.923431"
+       id="path840-3-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czzzzzzzzzzzc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.26458332, 0.52916663;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 34.736827,102.42777 h 9.060677"
+       id="path930"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot932"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:25px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.09055789,0,0,0.09055789,32.480743,64.02601)"><flowRegion
+         id="flowRegion934"><rect
+           id="rect936"
+           width="54.674507"
+           height="48.361053"
+           x="144.32555"
+           y="413.01379" /></flowRegion><flowPara
+         id="flowPara938"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">Δx</flowPara></flowRoot>    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.23014849;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.2301485, 0.46029699;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#Arrow1Mstart)"
+       d="M 27.691797,122.40623 H 34.5475"
+       id="path930-4"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot932-0"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:25px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.08765747,0,0,0.08765747,22.449071,85.234412)"><flowRegion
+         id="flowRegion934-3"><rect
+           id="rect936-2"
+           width="54.674507"
+           height="48.361053"
+           x="144.32555"
+           y="413.01379" /></flowRegion><flowPara
+         id="flowPara938-8"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">Δx</flowPara></flowRoot>    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.26458332, 0.52916663;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Mend-3)"
+       d="m 87.268419,102.42777 h 4.430469"
+       id="path930-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g2011"
+       transform="translate(-0.8507535,-10.614709)">
+      <flowRoot
+         transform="matrix(0.08314434,0,0,0.08314434,83.623415,77.758008)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:25px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot932-8"
+         xml:space="preserve"><flowRegion
+           id="flowRegion934-6"><rect
+             y="413.01379"
+             x="144.32555"
+             height="48.361053"
+             width="54.674507"
+             id="rect936-7" /></flowRegion><flowPara
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="flowPara938-0">Δx</flowPara></flowRoot>      <g
+         transform="matrix(0.91813467,0,0,0.91813467,4.5480682,4.1355221)"
+         id="g1992">
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot932-8-8"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00007248px;line-height:25px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           transform="matrix(0.07079043,0,0,0.07079043,87.495244,87.10356)"><flowRegion
+             id="flowRegion934-6-4"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00007248px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
+               id="rect936-7-8"
+               width="54.674507"
+               height="48.361053"
+               x="144.32555"
+               y="413.01379"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00007248px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
+             id="flowPara938-0-1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00007248px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">1</flowPara></flowRoot>        <flowRoot
+           xml:space="preserve"
+           id="flowRoot932-8-8-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00007248px;line-height:25px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           transform="matrix(0.07079043,0,0,0.07079043,87.502157,89.993706)"><flowRegion
+             id="flowRegion934-6-4-8"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00007248px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
+               id="rect936-7-8-5"
+               width="54.674507"
+               height="48.361053"
+               x="144.32555"
+               y="413.01379"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00007248px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
+             id="flowPara938-0-1-2"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00007248px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">2</flowPara></flowRoot>        <flowRoot
+           xml:space="preserve"
+           id="flowRoot932-8-8-6-1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00007248px;line-height:25px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           transform="matrix(0.07079043,0,0,0.07079043,87.471048,87.263379)"><flowRegion
+             id="flowRegion934-6-4-8-9"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00007248px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
+               id="rect936-7-8-5-9"
+               width="54.674507"
+               height="48.361053"
+               x="144.32555"
+               y="413.01379"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00007248px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
+             id="flowPara938-0-1-2-6"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00007248px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">_</flowPara></flowRoot>      </g>
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.26458332, 0.52916663;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Mend-3-5)"
+       d="M 70.633569,102.42777 H 66.2031"
+       id="path930-9-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g2011-0"
+       transform="translate(-35.074992,-10.614709)">
+      <flowRoot
+         transform="matrix(0.08314434,0,0,0.08314434,83.623415,77.758008)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:25px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot932-8-4"
+         xml:space="preserve"><flowRegion
+           id="flowRegion934-6-0"><rect
+             y="413.01379"
+             x="144.32555"
+             height="48.361053"
+             width="54.674507"
+             id="rect936-7-1" /></flowRegion><flowPara
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="flowPara938-0-3">Δx</flowPara></flowRoot>      <g
+         transform="matrix(0.91813467,0,0,0.91813467,4.5480682,4.1355221)"
+         id="g1992-7">
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot932-8-8-4"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00007248px;line-height:25px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           transform="matrix(0.07079043,0,0,0.07079043,87.495244,87.10356)"><flowRegion
+             id="flowRegion934-6-4-1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00007248px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
+               id="rect936-7-8-1"
+               width="54.674507"
+               height="48.361053"
+               x="144.32555"
+               y="413.01379"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00007248px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
+             id="flowPara938-0-1-3"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00007248px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">1</flowPara></flowRoot>        <flowRoot
+           xml:space="preserve"
+           id="flowRoot932-8-8-6-0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00007248px;line-height:25px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           transform="matrix(0.07079043,0,0,0.07079043,87.502157,89.993706)"><flowRegion
+             id="flowRegion934-6-4-8-3"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00007248px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
+               id="rect936-7-8-5-2"
+               width="54.674507"
+               height="48.361053"
+               x="144.32555"
+               y="413.01379"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00007248px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
+             id="flowPara938-0-1-2-1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00007248px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">2</flowPara></flowRoot>        <flowRoot
+           xml:space="preserve"
+           id="flowRoot932-8-8-6-1-7"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00007248px;line-height:25px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           transform="matrix(0.07079043,0,0,0.07079043,87.471048,87.263379)"><flowRegion
+             id="flowRegion934-6-4-8-9-5"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00007248px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
+               id="rect936-7-8-5-9-6"
+               width="54.674507"
+               height="48.361053"
+               x="144.32555"
+               y="413.01379"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00007248px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
+             id="flowPara938-0-1-2-6-5"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00007248px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">_</flowPara></flowRoot>      </g>
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.47692603;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.47692602, 0.95385201;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 34.544587,126.10129 V 96.661327"
+       id="path930-2"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.47692603;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.47692603, 0.95385202;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 70.625974,126.10129 V 96.661333"
+       id="path930-2-1"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.47692603;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.47692603, 0.95385203;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 87.129866,126.10129 V 96.661332"
+       id="path930-2-1-7"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.24415942;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.24415941, 0.48831881;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Mend-3-1)"
+       d="m 70.551902,122.40623 h 3.772869"
+       id="path930-9-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.23124439;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.23124439, 0.46248877;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Mend-3-5-2)"
+       d="M 86.941749,122.40623 H 83.557462"
+       id="path930-9-9-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g2011-0-8"
+       transform="translate(-30.002243,9.3637497)">
+      <flowRoot
+         transform="matrix(0.08314434,0,0,0.08314434,83.623415,77.758008)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:25px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot932-8-4-5"
+         xml:space="preserve"><flowRegion
+           id="flowRegion934-6-0-9"><rect
+             y="413.01379"
+             x="144.32555"
+             height="48.361053"
+             width="54.674507"
+             id="rect936-7-1-2" /></flowRegion><flowPara
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="flowPara938-0-3-7">Δx</flowPara></flowRoot>      <g
+         transform="matrix(0.91813467,0,0,0.91813467,4.5480682,4.1355221)"
+         id="g1992-7-3">
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot932-8-8-4-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00007248px;line-height:25px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           transform="matrix(0.07079043,0,0,0.07079043,87.495244,87.10356)"><flowRegion
+             id="flowRegion934-6-4-1-4"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00007248px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
+               id="rect936-7-8-1-7"
+               width="54.674507"
+               height="48.361053"
+               x="144.32555"
+               y="413.01379"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00007248px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
+             id="flowPara938-0-1-3-9"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00007248px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">1</flowPara></flowRoot>        <flowRoot
+           xml:space="preserve"
+           id="flowRoot932-8-8-6-0-7"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00007248px;line-height:25px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           transform="matrix(0.07079043,0,0,0.07079043,87.502157,89.993706)"><flowRegion
+             id="flowRegion934-6-4-8-3-2"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00007248px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
+               id="rect936-7-8-5-2-2"
+               width="54.674507"
+               height="48.361053"
+               x="144.32555"
+               y="413.01379"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00007248px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
+             id="flowPara938-0-1-2-1-1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00007248px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">2</flowPara></flowRoot>        <flowRoot
+           xml:space="preserve"
+           id="flowRoot932-8-8-6-1-7-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00007248px;line-height:25px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           transform="matrix(0.07079043,0,0,0.07079043,87.471048,87.263379)"><flowRegion
+             id="flowRegion934-6-4-8-9-5-3"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00007248px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
+               id="rect936-7-8-5-9-6-0"
+               width="54.674507"
+               height="48.361053"
+               x="144.32555"
+               y="413.01379"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00007248px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
+             id="flowPara938-0-1-2-6-5-2"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00007248px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">_</flowPara></flowRoot>      </g>
+    </g>
+    <g
+       id="g2011-1"
+       transform="translate(-5.8143506,9.3637497)">
+      <flowRoot
+         transform="matrix(0.08314434,0,0,0.08314434,83.623415,77.758008)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:25px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot932-8-5"
+         xml:space="preserve"><flowRegion
+           id="flowRegion934-6-6"><rect
+             y="413.01379"
+             x="144.32555"
+             height="48.361053"
+             width="54.674507"
+             id="rect936-7-5" /></flowRegion><flowPara
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="flowPara938-0-0">Δx</flowPara></flowRoot>      <g
+         transform="matrix(0.91813467,0,0,0.91813467,4.5480682,4.1355221)"
+         id="g1992-0">
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot932-8-8-3"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00007248px;line-height:25px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           transform="matrix(0.07079043,0,0,0.07079043,87.495244,87.10356)"><flowRegion
+             id="flowRegion934-6-4-4"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00007248px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
+               id="rect936-7-8-6"
+               width="54.674507"
+               height="48.361053"
+               x="144.32555"
+               y="413.01379"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00007248px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
+             id="flowPara938-0-1-6"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00007248px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">1</flowPara></flowRoot>        <flowRoot
+           xml:space="preserve"
+           id="flowRoot932-8-8-6-02"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00007248px;line-height:25px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           transform="matrix(0.07079043,0,0,0.07079043,87.502157,89.993706)"><flowRegion
+             id="flowRegion934-6-4-8-5"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00007248px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
+               id="rect936-7-8-5-8"
+               width="54.674507"
+               height="48.361053"
+               x="144.32555"
+               y="413.01379"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00007248px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
+             id="flowPara938-0-1-2-9"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00007248px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">2</flowPara></flowRoot>        <flowRoot
+           xml:space="preserve"
+           id="flowRoot932-8-8-6-1-5"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00007248px;line-height:25px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           transform="matrix(0.07079043,0,0,0.07079043,87.471048,87.263379)"><flowRegion
+             id="flowRegion934-6-4-8-9-0"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00007248px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
+               id="rect936-7-8-5-9-60"
+               width="54.674507"
+               height="48.361053"
+               x="144.32555"
+               y="413.01379"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00007248px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
+             id="flowPara938-0-1-2-6-8"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00007248px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">_</flowPara></flowRoot>      </g>
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot932-82"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:25px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.09055789,0,0,0.09055789,36.154852,74.449537)"><flowRegion
+         id="flowRegion934-1"><rect
+           id="rect936-0"
+           width="103.37206"
+           height="48.361053"
+           x="144.32555"
+           y="413.01379" /></flowRegion><flowPara
+         id="flowPara938-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00007248px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">Eqm</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot932-82-8"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:25px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.09055789,0,0,0.09055789,-1.5948607,64.053425)"><flowRegion
+         id="flowRegion934-1-8"><rect
+           id="rect936-0-4"
+           width="103.37206"
+           height="48.361053"
+           x="144.32555"
+           y="413.01379" /></flowRegion><flowPara
+         id="flowPara938-5-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00007248px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">A</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot932-82-8-6"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:25px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.09055789,0,0,0.09055789,-1.3578533,84.011542)"><flowRegion
+         id="flowRegion934-1-8-5"><rect
+           id="rect936-0-4-6"
+           width="103.37206"
+           height="48.361053"
+           x="144.32555"
+           y="413.01379" /></flowRegion><flowPara
+         id="flowPara938-5-5-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00007248px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">B</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot932-82-8-4"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:25px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.09055789,0,0,0.09055789,89.71494,64.053424)"><flowRegion
+         id="flowRegion934-1-8-8"><rect
+           id="rect936-0-4-8"
+           width="103.37206"
+           height="48.361053"
+           x="144.32555"
+           y="413.01379" /></flowRegion><flowPara
+         id="flowPara938-5-5-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00007248px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">C</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot932-82-8-6-8"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:25px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.09055789,0,0,0.09055789,89.951947,84.011542)"><flowRegion
+         id="flowRegion934-1-8-5-7"><rect
+           id="rect936-0-4-6-5"
+           width="103.37206"
+           height="48.361053"
+           x="144.32555"
+           y="413.01379" /></flowRegion><flowPara
+         id="flowPara938-5-5-8-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00007248px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">D</flowPara></flowRoot>  </g>
+</svg>

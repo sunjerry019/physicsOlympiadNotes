@@ -1,0 +1,14 @@
+Moment of Inertia for common objects
+common results of Gauss' law for EM
+Gauss' law can also use for gravitational field
+Standing waves might be helpful to add general expressions of the 
+wavelength for different harmonics
+diffraction grating equation
+fluid continuity equation (a_1v_1 = a_2v_2)
+	where a = cross sectional area of flow
+	where v = velocity of the fluid at that point
+	essentially conservation of fluid
+Malus law only works for plane polarized light
+
+==== Problem Solving Techniques ====
+When to use vectors

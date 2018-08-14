@@ -1,0 +1,203 @@
+% !TeX spellcheck = en_GB
+\documentclass[answers]{exam}
+% addpoints
+
+\ifprintanswers
+	\usepackage[type1]{libertine}
+	\usepackage[a4paper]{geometry}
+	\usepackage{parskip}
+\else
+\fi
+
+\usepackage{tikz}
+	\usetikzlibrary{arrows}
+\usepackage{circuitikz}
+
+\usepackage{amsmath, amsthm, amssymb} 
+\usepackage{tabularx}
+\usepackage[english]{babel}
+\usepackage[inline]{enumitem}	% remove inline if not needed
+\usepackage{gensymb}
+\usepackage{bm}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{float}
+\usepackage{wrapfig}
+\usepackage[makeroom]{cancel}
+\usepackage{multicol}
+\usepackage{vwcol} 	 	% Provides variable multicol
+\usepackage{commath} 	% Provides good differentials
+\usepackage{siunitx} 	% Provides good units
+\usepackage{nicefrac}
+\usepackage{dashrule}
+
+
+\usepackage[titletoc,title,toc,page]{appendix}
+\usepackage{hyperref}
+\hypersetup{
+	pdftitle={SJPO Training -- Gravitation Skills and Concept Readiness Quiz},
+	pdfauthor={Sun Yudong},
+	bookmarksnumbered=true,
+	bookmarksopen=true,
+	bookmarksopenlevel=2,
+	pdfstartview=Fit,
+	pdfpagemode=UseOutlines,
+	colorlinks=true,
+	linkcolor=black,
+	filecolor=magenta,      
+	urlcolor=blue
+}
+
+% custom environments
+\newcommand{\uvec}[1]{\boldsymbol{\hat{\textbf{#1}}}}
+\def\doubleunderline#1{\underline{\underline{#1}}}
+
+\renewcommand{\ttdefault}{cmtt}
+
+\newenvironment{multicolFigure}
+{\par\medskip\noindent\minipage{\linewidth}}
+{\endminipage\par\medskip}
+
+\title{\vspace{-1cm} Gravitation\\Skills and Concept Readiness Quiz}
+\author{Sun Yudong}
+\date{May 5, 2018}
+	
+\begin{document}
+\maketitle
+
+\begin{questions}	
+	\question{
+		The gravitational force that the Sun exerts on Earth is much larger than the gravitational force that Earth exerts on the Sun.
+		\begin{multicols}{2}
+			\begin{choices}
+				\choice True
+				\choice False
+			\end{choices}
+		\end{multicols}
+	}
+	\vfill
+	\question{
+		The reason that when an object falls towards Earth, Earth does not move toward the object, is that the force exerted by Earth on the object is so much bigger. 
+		\begin{multicols}{2}
+			\begin{choices}
+				\choice True
+				\choice False
+			\end{choices}
+		\end{multicols}
+	}
+	\vfill
+	\question{
+		Two massive objects are fixed in position. A third object is placed directly between the first two at the position at which the total gravitational force on the third object due to the two massive objects is zero. The object is displaced slightly toward one of the two massive objects, the total gravitational force on the third object is now:
+		\begin{choices}
+			\choice perpendicular to the displacement of the object.
+			\choice in a direction which depends on which of the massive objects as a greater mass. 
+			\choice in the opposite direction to the displacement of the object.
+			\choice in the same direction the object is displaced.
+		\end{choices}
+	}
+	\vfill
+	\question{
+		A communications satellite which takes 24 hours to orbit the Earth is replaced by a new satellite which has twice the mass of the old one. The new satellite also has an orbit time of 24 hours. What is the ratio of the radius of orbit of the new satellite to the radius of orbit of the old satellite?
+		\begin{multicols}{2}
+			\begin{choices}
+				\choice $\nicefrac{1}{2}$
+				\choice $1$
+				\choice $\sqrt{2}$
+				\choice $2$
+			\end{choices}
+		\end{multicols}
+	}
+	\vfill
+	\question{
+		$X$ and $Y$ are two points at respective distances $R$ and $2R$ from the centre of the Earth, where $R$ is greater than the radius of the Earth. The gravitational potential at $X$ is \SI{-800}{\kilo\joule\per\kilogram}. When a \SI{1}{\kilogram} mass is taken from $X$ to $Y$, the work done on the mass is:
+		\begin{multicols}{2}
+			\begin{choices}
+				\choice \SI{-400}{\kilo\joule}
+				\choice \SI{-200}{\kilo\joule}
+				\choice \SI{200}{\kilo\joule}
+				\choice \SI{400}{\kilo\joule}
+				\choice \SI{800}{\kilo\joule}
+			\end{choices}
+		\end{multicols}
+	}
+	\vfill
+	\question{
+		An Earth satellite is moved from one stable circular orbit to another stable circular orbit at a greater distance from Earth. Which one of the following quantities increases for the satellite as a result of the change?
+		\begin{multicols}{2}
+			\begin{choices}
+				\choice Gravitational Force
+				\choice Gravitational Potential Energy
+				\choice Angular Velocity
+				\choice Linear Speed in the Orbit
+				\choice Centripetal Acceleration
+			\end{choices}
+		\end{multicols}
+	}
+	\vfill
+	\question{
+		A satellite of mass $m$ is in a circular orbit of radius $r$ about the Earth, mass $M$, and remains at a vertical height $h$ above the Earth's surface. Taking the zero of the gravitational potential to be at an infinite distance from the Earth, what is the gravitational potential energy of the satellite?
+		\begin{multicols}{2}
+			\begin{choices}
+				\choice $mgh$
+				\choice $-mgh$
+				\choice $\displaystyle -\frac{GMm}{2r}$
+				\choice $\displaystyle \frac{GMm}{2r}$
+				\choice $\displaystyle \frac{GMm}{r}$
+			\end{choices}
+		\end{multicols}
+	}
+	\vfill
+	\question{
+		A stationary object is released from a point $P$ a distance $3R$ from the centre of a moon of radius $R$ and mass $M$. What is the speed of the object when it hits the surface of the moon?
+		\begin{multicols}{2}
+			\begin{choices}
+				\choice $\displaystyle \sqrt{\frac{2GM}{3R}}$
+				\choice $\displaystyle \sqrt{\frac{4GM}{3R}}$
+				\choice $\displaystyle \sqrt{\frac{2GM}{R}}$
+				\choice $\displaystyle \sqrt{\frac{4GM}{R}}$
+				\choice $\displaystyle \sqrt{\frac{GM}{3R}}$
+			\end{choices}
+		\end{multicols}
+	}
+	\vfill
+	\question{
+		Two point masses $m_1$ and $m_2$ are at a distance $r$ apart. What is the magnitude of the gravitational field strength cause by $m_1$ at $m_2$?
+		\begin{multicols}{2}
+			\begin{choices}
+				\choice $\displaystyle \frac{Gm_1m_2}{r}$
+				\choice $\displaystyle \frac{Gm_1m_2}{r^2}$
+				\choice $\displaystyle \frac{Gm_1}{r^2}$
+				\choice $\displaystyle \frac{Gm_2}{r^2}$
+			\end{choices}
+		\end{multicols}
+	}
+	\vfill
+	\question{
+		Which quantity is not necessarily the same for satellites that are in geostationary orbits around the Earth?
+		\begin{multicols}{2}
+			\begin{choices}
+				\choice Angular Velocity
+				\choice Centripetal Acceleration
+				\choice Kinetic Energy
+				\choice Orbital Period
+			\end{choices}
+		\end{multicols}
+	}
+\end{questions}
+
+\section*{Answers}
+\begin{enumerate*}[label={\textbf{\arabic*)}},itemjoin={\quad}]
+	\item B
+	\item B
+	\item D
+	\item B
+	\item D
+	\item B
+	\item E
+	\item B
+	\item C
+	\item C
+\end{enumerate*}
+
+If you get any of these wrong, please discuss with your peers, and refer to your notes. If you still do not understand, do not hesitate to ask before/in/after class. 
+\end{document}
